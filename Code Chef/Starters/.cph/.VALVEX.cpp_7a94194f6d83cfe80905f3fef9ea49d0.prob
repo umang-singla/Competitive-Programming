@@ -1,0 +1,1 @@
+{"name":"Local: VALVEX","url":"d:\\Work\\CP\\Code Chef\\Starters\\VALVEX.cpp","tests":[{"id":1651069954818,"input":"3\n4\n1 2 3 4\n3\n45 10 53\n6\n7 5 2 2 6 2","output":"5\n55\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Code Chef\\Starters\\VALVEX.cpp","group":"local","local":true}

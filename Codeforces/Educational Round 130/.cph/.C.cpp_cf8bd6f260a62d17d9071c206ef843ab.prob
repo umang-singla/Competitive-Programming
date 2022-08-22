@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\Work\\CP\\Codeforces\\Educational Round 130\\C.cpp","tests":[{"id":1655046983571,"input":"5\n3\ncab\ncab\n1\na\nb\n6\nabbabc\nbbaacb\n10\nbcaabababc\ncbbababaac\n4\nbcab\nabbc","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Codeforces\\Educational Round 130\\C.cpp","group":"local","local":true}

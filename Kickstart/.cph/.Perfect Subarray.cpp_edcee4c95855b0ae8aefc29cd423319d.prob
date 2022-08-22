@@ -1,0 +1,1 @@
+{"name":"Local: Perfect Subarray","url":"d:\\Work\\CP\\Kickstart\\Perfect Subarray.cpp","tests":[{"id":1653069590402,"input":"3\n3\n2 2 6\n5\n30 30 9 1 30\n4\n4 0 0 16\n","output":"Case #1: 1\nCase #2: 3\nCase #3: 9\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Kickstart\\Perfect Subarray.cpp","group":"local","local":true}

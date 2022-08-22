@@ -1,0 +1,1 @@
+{"name":"Local: Palindrome Free Strings","url":"d:\\Work\\CP\\Kickstart\\Palindrome Free Strings.cpp.cpp","tests":[{"id":1653046040925,"input":"2\n9\n100???001\n5\n100??\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Kickstart\\Palindrome Free Strings.cpp.cpp","group":"local","local":true}

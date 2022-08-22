@@ -1,0 +1,1 @@
+{"name":"Local: ANTIPODAL","url":"d:\\Work\\CP\\Code Chef\\Longchallenge\\ANTIPODAL.cpp","tests":[{"id":1650780935965,"input":"1\n4\n0 1\n0 -1\n1 0\n-1 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Code Chef\\Longchallenge\\ANTIPODAL.cpp","group":"local","local":true}

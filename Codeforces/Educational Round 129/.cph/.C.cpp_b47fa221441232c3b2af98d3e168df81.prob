@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\Work\\CP\\Codeforces\\Educatonal Round 129\\C.cpp","tests":[{"id":1653317695858,"input":"3\n2\n1 2\n1 2\n2\n2 1\n1 2\n4\n1 2 3 2\n1 3 4 2\n","output":"0\n-1\n3\n3 1\n3 2\n4 3\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Codeforces\\Educatonal Round 129\\C.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\Work\\CP\\Kickstart\\C.cpp","tests":[{"id":1661054936362,"input":"3\n4\nabba\n4\ncccc\n6\ncdccdc","output":"Case #1: abba\nCase #2: c\nCase #3: cdc"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Kickstart\\C.cpp","group":"local","local":true}

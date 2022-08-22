@@ -1,0 +1,1 @@
+{"name":"Local: D","url":"d:\\Work\\CP\\Codeforces\\Round 785\\D.cpp","tests":[{"id":1651334709819,"input":"1\n-690377870 113265092 309910313\n-237317502 226530184 111095495","output":"0\n10\n-1\n0\n-1\n21\n0\n273000"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Codeforces\\Round 785\\D.cpp","group":"local","local":true}

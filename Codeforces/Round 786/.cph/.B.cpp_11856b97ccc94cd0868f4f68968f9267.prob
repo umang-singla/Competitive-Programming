@@ -1,0 +1,1 @@
+{"name":"Local: B","url":"d:\\Work\\CP\\Codeforces\\Round 786\\B.cpp","tests":[{"id":1651502471791,"input":"7\nab\nac\naz\nba\nbc\nzx\nzy\n","output":"1\n2\n25\n26\n27\n649\n650\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Codeforces\\Round 786\\B.cpp","group":"local","local":true}

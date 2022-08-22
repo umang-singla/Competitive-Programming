@@ -1,0 +1,1 @@
+{"name":"Local: DIFSUBARRAYS","url":"d:\\Work\\CP\\Code Chef\\Cook Off\\DIFSUBARRAYS.cpp","tests":[{"id":1651420397494,"input":"3\n3\n1 1 2\n4\n19 39 19 84\n6\n1 2 3 1 2 3\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Code Chef\\Cook Off\\DIFSUBARRAYS.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"d:\\Work\\CP\\Atcoder\\Contest 264\\C.cpp","tests":[{"id":1660394173592,"input":"3 3\n1 1 1\n1 1 1\n1 1 1\n1 1\n2\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Atcoder\\Contest 264\\C.cpp","group":"local","local":true}

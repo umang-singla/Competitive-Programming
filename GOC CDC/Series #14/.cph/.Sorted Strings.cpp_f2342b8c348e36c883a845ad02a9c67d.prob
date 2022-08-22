@@ -1,0 +1,1 @@
+{"name":"Local: Sorted Strings","url":"d:\\Work\\CP\\GOC CDC\\Series #14\\Sorted Strings.cpp","tests":[{"id":1653128715778,"input":"3 2\nabdef kgp taaedf\n2 3 4\n1 3 10","output":"e\nf"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\GOC CDC\\Series #14\\Sorted Strings.cpp","group":"local","local":true}

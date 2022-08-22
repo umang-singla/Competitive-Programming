@@ -1,0 +1,1 @@
+{"name":"Local: E","url":"d:\\Work\\CP\\Codeforces\\Round 787\\E.cpp","tests":[{"id":1651767938671,"input":"4\n3 2\ncba\n4 5\nfgde\n7 5\nhndcafb\n3 12\nbzb\n","output":"aaa\nagaa\nbnbbabb\naapp\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Codeforces\\Round 787\\E.cpp","group":"local","local":true}

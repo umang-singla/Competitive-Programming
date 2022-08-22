@@ -1,0 +1,1 @@
+{"name":"Local: parallel processing","url":"d:\\Work\\CP\\Code Chef\\parallel processing.cpp","tests":[{"id":1646145373674,"input":"3\n3\n1 2 3\n6\n1 1 1 1 1 1\n1\n5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Code Chef\\parallel processing.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Image Labeler","url":"d:\\Work\\CP\\Kickstart\\Image Labeler.cpp","tests":[{"id":1657431168500,"input":"1\n3 2\n11 24 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Kickstart\\Image Labeler.cpp","group":"local","local":true}

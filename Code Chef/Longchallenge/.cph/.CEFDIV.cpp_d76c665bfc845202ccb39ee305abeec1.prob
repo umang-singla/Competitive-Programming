@@ -1,0 +1,1 @@
+{"name":"Local: CEFDIV","url":"d:\\Work\\CP\\Code Chef\\Longchallenge\\CEFDIV.cpp","tests":[{"id":1651145661968,"input":"3\n3\n1 2 3\n4\n4 4 4 4\n5\n1 2 3 3 5\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\Code Chef\\Longchallenge\\CEFDIV.cpp","group":"local","local":true}

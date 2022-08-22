@@ -1,0 +1,1 @@
+{"name":"Local: 1542C","url":"d:\\Work\\CP\\C2ladders\\1542C.cpp","tests":[{"id":1652640851930,"input":"6\n1\n2\n3\n4\n10\n10000000000000000\n","output":"2\n5\n7\n10\n26\n366580019\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Work\\CP\\C2ladders\\1542C.cpp","group":"local","local":true}
