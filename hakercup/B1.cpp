@@ -24,52 +24,53 @@
 
 using namespace std;
 
-void testcase(int k)
+const int mod = 1e9 + 7;
+
+void testcase(int c)
 {
-    int r,c;
-    cin>>r>>c;
-
-    string s[r];
-    FOR(i,0,r) cin>>s[i];
-    cout<<"Case #"<<k<<": ";
-
-    if(r==1||c==1){
-        bool poss = true;
-        for(int i=0;i<r;i++){
-            for(int j=0;j<c;j++) if(s[i][j]=='^') poss = false;
-        }
-        if(poss){
-            cout<<"Possible"<<endl;
-                for(int i=0;i<r;i++){
-                for(int j=0;j<c;j++){
-                    cout<<s[i][j];
-                }
-                cout<<endl;
-            }
-        }else{
-            cout<<"Impossible"<<endl;
-        }
-    }else{
-        cout<<"Possible"<<endl;
-        for(int i=0;i<r;i++){
-            for(int j=0;j<c;j++){
-                cout<<'^';
-            }
-            cout<<endl;
-        }
+    int n;
+    cin>>n;
+    int sqx=0,sqy=0,x=0,y=0;
+    for(int i=0;i<n;i++){
+        int a,b;
+        cin>>a>>b;
+        sqx = (sqx + (a*a)%mod)%mod;
+        sqy = (sqy + (b*b)%mod)%mod;
+        x = (x+a)%mod;
+        y = (y+b)%mod;
     }
+
+    int q;
+    cin>>q;
+    int ans1 = 0;
+    while(q--){
+        int a,b;
+        cin>>a>>b;
+
+        int ans = (n*((a*a)%mod))%mod;
+        ans = (ans + (n*((b*b)%mod))%mod);
+        ans = (ans + (sqx+sqy)%mod)%mod;
+        ans = (ans + mod - (2*((x*a)%mod))%mod)%mod;
+        ans = (ans + mod - (2*((y*b)%mod))%mod)%mod;
+
+        ans1 = (ans1 + ans)%mod;
+
+    }
+
+    cout<<"Case #"<<c<<": "<<ans1<<endl;
+
+    return;
+
+    
 }
 
 signed main()
 {
-    ios_base::sync_with_stdio(false);
-    cin.tie(NULL);
-    cout.tie(NULL);
-    #ifndef ONLINE_JUDGE
-    freopen("input.txt", "r" , stdin);
+    freopen("input.txt", "r", stdin);
     freopen("output.txt", "w", stdout);
-    #endif
 
-    int t;cin >> t;for(int i=0;i<t;i++)
-    testcase(i+1);
+    int t;cin >> t;
+    for(int i=0;i<t;i++){
+        testcase(i+1);
+    }
 }

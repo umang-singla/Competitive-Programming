@@ -52,10 +52,13 @@ void testcase(int c)
         index++;
     }
 
+    // cout<<index<<" ";
+    index = index%n;
+
     if(index==0){
         if(k!=0){
             if(n==2){
-                if(k%2) poss = false;
+                if(k%2==1) poss = false;
             }else{
                 if(k==1) poss = false;
             }
